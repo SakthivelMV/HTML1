@@ -1,0 +1,98 @@
+/* body{
+    overflow-x: hidden;
+} */
+
+
+.na{
+    background-color: black;
+    height: 400px;
+    padding: 30px 40px;
+    
+}
+.nav-link{
+    color: white;
+}
+.nav{
+    padding-top: 20px;
+    border-right: 50px;
+    
+}
+.txt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 110px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    color: white;
+    font-size: medium;
+}
+.about{
+    background-color: white;
+    /* height: 500px !important; */
+    padding: 30px 40px;
+}
+.abt{
+    font-size: 30px;
+    padding-top: 20px;
+    border-right: 50px;
+}
+.para2{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+}
+.bt{
+     display: flex; 
+    /* margin-left: 800px; */
+    }
+.tag{
+        margin-top: 15px;
+        padding-top: 20px;
+        background-color: black;
+        height: 100px;
+        
+    }
+.tagline{
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 38px;
+
+    }
+.awards{
+        margin-top: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+.award{
+        padding-top: 50px;
+        border-right: 50px;
+    }
+.poetry{
+    font-size: 30px;
+padding-top: 80px;
+  padding-left: 350px;
+  padding-bottom: 50px;
+}
+.points{
+    padding-left: 200px;
+
+}
+.end1{
+    padding-left: 40px;
+    margin-top: 15px;
+    padding-top: 30px;
+    background-color: black;
+    height: 150px;
+    color: white;
+    
+}
